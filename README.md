@@ -1,6 +1,6 @@
    
 ### Canny Edge Detector
-## C/C++ implementation from scratch of Canny Edge Detector on bmp images  
+## C implementation from scratch of Canny Edge Detector on bmp images  
 YI SHI 2018 ys3237@nyu.edu  
  
 Structure
